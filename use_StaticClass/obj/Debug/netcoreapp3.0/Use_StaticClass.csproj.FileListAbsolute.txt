@@ -1,0 +1,11 @@
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\bin\Debug\netcoreapp3.0\Use_StaticClass.exe
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\bin\Debug\netcoreapp3.0\Use_StaticClass.deps.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\bin\Debug\netcoreapp3.0\Use_StaticClass.runtimeconfig.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\bin\Debug\netcoreapp3.0\Use_StaticClass.runtimeconfig.dev.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\bin\Debug\netcoreapp3.0\Use_StaticClass.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\bin\Debug\netcoreapp3.0\Use_StaticClass.pdb
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\obj\Debug\netcoreapp3.0\Use_StaticClass.csprojAssemblyReference.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\obj\Debug\netcoreapp3.0\Use_StaticClass.AssemblyInfoInputs.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\obj\Debug\netcoreapp3.0\Use_StaticClass.AssemblyInfo.cs
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\obj\Debug\netcoreapp3.0\Use_StaticClass.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\Use_StaticClass\Use_StaticClass\obj\Debug\netcoreapp3.0\Use_StaticClass.pdb
